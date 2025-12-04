@@ -1,0 +1,7 @@
+.venv/
+
+best_sentiment_model/
+
+results/
+
+results.zip

@@ -51,10 +51,10 @@ cd product-review-analysis
 
 2. **Crie um ambiente virtual**:
 ```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
+python3 -m venv .venv
+source .venv/bin/activate  # Linux/Mac
 # ou
-venv\Scripts\activate     # Windows
+.venv\Scripts\activate     # Windows
 ```
 
 3. **Instale as dependências**:

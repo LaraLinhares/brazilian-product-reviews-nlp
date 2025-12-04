@@ -13,9 +13,11 @@ torch==2.2.1
 torchvision==0.17.1
 
 # Utilities
-kagglehub==0.2.4
+kagglehub==0.3.13
 tqdm==4.66.2
 requests==2.31.0
+sentencepiece==0.2.1
+protobuf==6.33.1
 
 # Jupyter and development
 jupyter==1.0.0
